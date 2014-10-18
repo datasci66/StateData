@@ -5,6 +5,8 @@ author      : Lori Bisch
 job         : Data Scientist
 logo        : logo.png
 framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
+url:
+     assets: ./assets
 highlighter : highlight.js  # {highlight.js, prettify, highlight}
 hitheme     : tomorrow      # 
 widgets     : [bootstrap, quiz, shiny, interactive]
@@ -40,23 +42,17 @@ names(df)
 
 ### Uses R, Shiny, and Google Charts to create an interactive web page:
 
-![Google ScatterPlot](C:/Users/Lori/Documents/Data Science/Data and Assignments/DevDataProds/State_data_app/assets/img/plot.JPG)
-
-
-
+![Google ScatterPlot](./assets/img/plot.JPG)
 
 ---
 ## Interactive Mapping 
 
-![Google GeoChart](C:/Users/Lori/Documents/Data Science/Data and Assignments/DevDataProds/State_data_app/assets/img/map.JPG)
+![Google GeoChart](./assets/img/map.JPG)
 
 ---
 ## Get Min/Mean/Max
 
-![Example Plot](C:/Users/Lori/Documents/Data Science/Data and Assignments/DevDataProds/State_data_app/assets/img/calc.JPG)
+![Example Plot](./assets/img/calc.JPG)
 
 
 ### Don't forget to [try it out](https://loribisch.shinyapps.io/CourseraProj/)!
-
-
-

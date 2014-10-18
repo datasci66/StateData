@@ -3,7 +3,7 @@ title       : U.S. State Data App
 subtitle    : Get Key Information About U.S. States
 author      : Lori Bisch
 job         : Data Scientist
-logo        : logo.png
+logo        : logo.PNG
 framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
 url:
      assets: ./assets
